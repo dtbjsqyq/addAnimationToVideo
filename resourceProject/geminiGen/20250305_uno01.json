@@ -1,0 +1,62 @@
+{
+  "video_name": "20250305_uno01.mp4",
+  "total_duration": 1078,
+  "segments": [
+    {
+      "start": 0,
+      "end": 619,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "浏览PDF教材与Arduino官网，讲解硬件系列"
+    },
+    {
+      "start": 619,
+      "end": 673,
+      "type": "silent",
+      "avatar_state": "none",
+      "position": null,
+      "note": "网页加载错误，长时间等待且无语音"
+    },
+    {
+      "start": 673,
+      "end": 685,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "浏览IDE下载页面说明"
+    },
+    {
+      "start": 685,
+      "end": 697,
+      "type": "coding",
+      "avatar_state": "sitting",
+      "position": "bottom-right",
+      "note": "打开Arduino IDE界面展示"
+    },
+    {
+      "start": 697,
+      "end": 745,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "浏览器搜索与网页浏览"
+    },
+    {
+      "start": 745,
+      "end": 918,
+      "type": "silent",
+      "avatar_state": "none",
+      "position": null,
+      "note": "网络连接失败与微信沟通等待，无有效教学内容"
+    },
+    {
+      "start": 918,
+      "end": 1078,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "浏览文档，讲解Uno开发板引脚图"
+    }
+  ]
+}

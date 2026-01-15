@@ -1,0 +1,10 @@
+# 数字人视频生成器 V4 依赖
+
+# 核心依赖
+numpy
+opencv-python
+soundfile
+torch
+torchaudio
+
+# ffmpeg 需要单独安装，确保在 PATH 中

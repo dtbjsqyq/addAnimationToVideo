@@ -1,0 +1,38 @@
+{
+  "video_name": "video.mp4",
+  "total_duration": 1097,
+  "segments": [
+    {
+      "start": 0,
+      "end": 84,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "PDF文档讲解与回顾"
+    },
+    {
+      "start": 84,
+      "end": 131,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-left",
+      "note": "浏览器Sider侧边栏交互"
+    },
+    {
+      "start": 131,
+      "end": 171,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "Arduino官网文档浏览"
+    },
+    {
+      "start": 171,
+      "end": 1097,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-left",
+      "note": "AI对话讲解蜂鸣器原理、代码及硬件区分"
+    }
+  ]
+}

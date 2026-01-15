@@ -1,0 +1,54 @@
+{
+  "video_name": "20250312_uno2电阻.mp4",
+  "total_duration": 445,
+  "segments": [
+    {
+      "start": 0,
+      "end": 109,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "WPS文档：讲解电阻、欧姆单位及符号，打字记录笔记"
+    },
+    {
+      "start": 109,
+      "end": 187,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-left",
+      "note": "浏览器：展示Arduino官网Blink示例，使用侧边栏AI查询色环电阻"
+    },
+    {
+      "start": 187,
+      "end": 217,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "WPS文档：复制粘贴色环电阻对应表"
+    },
+    {
+      "start": 217,
+      "end": 334,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-left",
+      "note": "浏览器：AI查询为何使用220欧姆电阻及欧姆定律计算"
+    },
+    {
+      "start": 334,
+      "end": 398,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "WPS文档：记录LED限流电阻计算公式和结论"
+    },
+    {
+      "start": 398,
+      "end": 445,
+      "type": "silent",
+      "avatar_state": "none",
+      "position": null,
+      "note": "课堂任务布置后静止等待，无语音讲解"
+    }
+  ]
+}

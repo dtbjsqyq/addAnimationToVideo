@@ -1,0 +1,54 @@
+{
+  "video_name": "20250305_uno02下载.mp4",
+  "total_duration": 1225,
+  "segments": [
+    {
+      "start": 0,
+      "end": 180,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "课程开场，PPT介绍Arduino UNO与实验目标"
+    },
+    {
+      "start": 180,
+      "end": 520,
+      "type": "coding",
+      "avatar_state": "sitting",
+      "position": "bottom-left",
+      "note": "IDE界面讲解，创建工程与基础代码编写"
+    },
+    {
+      "start": 520,
+      "end": 760,
+      "type": "hardware",
+      "avatar_state": "none",
+      "position": null,
+      "note": "摄像头实拍，展示Arduino UNO接线与硬件连接"
+    },
+    {
+      "start": 760,
+      "end": 980,
+      "type": "coding",
+      "avatar_state": "sitting",
+      "position": "top-right",
+      "note": "回到IDE，上传程序并调试运行结果"
+    },
+    {
+      "start": 980,
+      "end": 1045,
+      "type": "silent",
+      "avatar_state": "none",
+      "position": null,
+      "note": "等待编译/上传，无明显语音和操作"
+    },
+    {
+      "start": 1045,
+      "end": 1225,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "实验效果讲解与课程总结"
+    }
+  ]
+}

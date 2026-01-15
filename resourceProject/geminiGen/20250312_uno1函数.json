@@ -1,0 +1,54 @@
+{
+  "video_name": "20250312_uno1函数.mp4",
+  "total_duration": 1783,
+  "segments": [
+    {
+      "start": 0,
+      "end": 120,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "课程开场，介绍Arduino UNO与函数概念"
+    },
+    {
+      "start": 120,
+      "end": 780,
+      "type": "coding",
+      "avatar_state": "sitting",
+      "position": "bottom-right",
+      "note": "IDE中编写UNO函数示例代码"
+    },
+    {
+      "start": 780,
+      "end": 980,
+      "type": "hardware",
+      "avatar_state": "none",
+      "position": null,
+      "note": "摄像头实拍，展示UNO板与连线/实物操作"
+    },
+    {
+      "start": 980,
+      "end": 1480,
+      "type": "coding",
+      "avatar_state": "sitting",
+      "position": "bottom-left",
+      "note": "回到IDE调试与完善函数逻辑"
+    },
+    {
+      "start": 1480,
+      "end": 1700,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "结合代码讲解函数调用与执行流程"
+    },
+    {
+      "start": 1700,
+      "end": 1783,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "课程总结与注意事项说明"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "video_name": "20250305_uno03code.mp4",
+  "total_duration": 652,
+  "segments": [
+    {
+      "start": 0,
+      "end": 78,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "课程开场与内容介绍，PPT/桌面讲解"
+    },
+    {
+      "start": 78,
+      "end": 312,
+      "type": "coding",
+      "avatar_state": "sitting",
+      "position": "bottom-left",
+      "note": "IDE 中编写 Arduino/UNO 示例代码"
+    },
+    {
+      "start": 312,
+      "end": 402,
+      "type": "hardware",
+      "avatar_state": "none",
+      "position": null,
+      "note": "摄像头实拍，展示 UNO 板与接线操作"
+    },
+    {
+      "start": 402,
+      "end": 510,
+      "type": "coding",
+      "avatar_state": "sitting",
+      "position": "bottom-left",
+      "note": "返回 IDE 调试与代码修改"
+    },
+    {
+      "start": 510,
+      "end": 540,
+      "type": "silent",
+      "avatar_state": "none",
+      "position": null,
+      "note": "短暂无语音与操作等待"
+    },
+    {
+      "start": 540,
+      "end": 652,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "实验结果讲解与课程总结"
+    }
+  ]
+}

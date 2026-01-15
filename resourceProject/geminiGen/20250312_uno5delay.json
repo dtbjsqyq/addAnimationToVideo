@@ -1,0 +1,14 @@
+{
+  "video_name": "20250312_150412.mp4",
+  "total_duration": 126,
+  "segments": [
+    {
+      "start": 0,
+      "end": 126,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "网页讲解Arduino Blink示例代码逻辑与文档"
+    }
+  ]
+}

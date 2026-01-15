@@ -1,0 +1,22 @@
+{
+  "video_name": "00:01.mp4",
+  "total_duration": 630,
+  "segments": [
+    {
+      "start": 0,
+      "end": 333,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "讲解安全生产、硬件连接注意事项及元器件特性"
+    },
+    {
+      "start": 333,
+      "end": 630,
+      "type": "coding",
+      "avatar_state": "sitting",
+      "position": "bottom-right",
+      "note": "在文档中编写代码，讲解setup、loop及自定义函数的定义与调用"
+    }
+  ]
+}

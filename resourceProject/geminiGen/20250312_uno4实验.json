@@ -1,0 +1,14 @@
+{
+  "video_name": "video.mp4",
+  "total_duration": 404,
+  "segments": [
+    {
+      "start": 0,
+      "end": 404,
+      "type": "lecture",
+      "avatar_state": "standing",
+      "position": "bottom-right",
+      "note": "浏览器展示Arduino文档，讲解电路连通性与电压测试方法"
+    }
+  ]
+}
